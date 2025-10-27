@@ -1,0 +1,36 @@
+Samay Patel
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL OF THE WORK TO
+DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH NO ASSISTANCE FROM ANY PERSON
+OTHER THAN THE INSTRUCTOR OF THIS COURSE OR ONE OF OUR UNDERGRADUATE GRADERS. I DID
+NOT USE Copilot OR OTHER AI ASSISTANCE – I typed the code myself by hand.
+
+# of Hours Per Day:
+
+Tuesday (10/14/2025) : 2
+Began working on projects/prototypes. worked on command line arguments and using the linkedlist
+
+Wednesday: 2.5
+Continued working on prototypes, use shots for linked list, implemented the team() function
+
+Sunday (10/19/2025) 1.5
+Finished all the prototypes
+
+Monday: 3
+Began working on the lab after the prototypes, was able to get shot displayed on the screen
+
+Tuesday: 4
+Implemented shot movement, and delete function for shots out of bounds. Fixed a lot of other small issues as well and organized code. Finished the non-bonus lab except for implementing the linked list
+
+Wednesday: 3.5
+Implemented Bonus #1, was able to do rock splitting, ran into a segmentation fault which I spent a lot of time debugging
+
+Thursday: 2.5
+Began working on the linkedlist implementation. Created insert & iterate, however isn't fully functioning
+
+Friday: 3.5
+Finished linkedlist implemntation, found an issue with fission as well. added one liners, and extra comments submitted lab for early deadline
+
+
+I really enjoyed this project. I think I learned a lot about how to use linked lists, and the implemtation I created for it, hopefully it will prepare me for the final exam well.
+
