@@ -14,9 +14,8 @@ This project simulates ships flying around and shooting rocks. When shots hit ro
 - Collision detection between ships, rocks, and shots
 
 ### Bonus Features
-- **Bonus 1**: Shots actually hit and break rocks (10 points)
-- **Bonus 2**: Playable mode - control ships with keyboard (10 points)
-- **Bonus 3**: Custom linked list code instead of library (10 points)
+- **1**: Shots actually hit and break rocks (10 points)
+- **2**: Custom linked list code instead of library
 
 ## How to Build and Run
 
@@ -31,11 +30,6 @@ make -r all
 Basic run:
 ```bash
 ./lab4 xZ1.rx output.txt
-```
-
-With bonus mode (graphics required):
-```bash
-./lab4 xZB.rx output.txt bonus 2>diagnostics.txt
 ```
 
 ## How It Works
